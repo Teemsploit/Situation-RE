@@ -6,7 +6,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/Teemsploit/Situation-
 ```
 <p>
 May not work on other executors.<br>
-you can get SirHurt at https://sirhurt.net//<br>
+you can get SirHurt at https://sirhurt.net/<br>
 </p>
 <hr>
 <p>
